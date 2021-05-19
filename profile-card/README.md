@@ -20,9 +20,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/himadri2110/frontendmentor.io/tree/main/profile-card)
+- Solution URL: [Solution URL](https://github.com/himadri2110/frontendmentor.io/tree/main/profile-card)
 
-- Live Site URL: [Add live site URL here](https://himadri-profile-card.netlify.app/)
+- Live Site URL: [Live Site URL](https://himadri-profile-card.netlify.app/)
 
 ## My process
 
