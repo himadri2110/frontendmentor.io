@@ -20,7 +20,7 @@ function hideShowAnswer(e) {
         }
     }
 
-    else if(item.id === 'arrow') 
+    else if(item.classList.contains('arrow')) 
     {
         if (item.parentElement.nextElementSibling.style.display === '') 
         {
