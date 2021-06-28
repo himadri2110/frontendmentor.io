@@ -40,4 +40,4 @@ It was a great opportunity to learn CSS Flexbox and Image Positioning with Tranf
 
 - Frontend Mentor - [@himadri2110](https://www.frontendmentor.io/profile/himadri2110)
 - LinkedIn - [Himadri Shah](https://www.linkedin.com/in/himadrishah21/)
-- Twitter - [@HimadriShah21](https://twitter.com/HimadriShah21)
+- Twitter - [@himadri_21](https://twitter.com/himadri_21)
